@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-compare-to-directive",
+  "name": "n",
   "version": "1.0.0",
   "homepage": "https://github.com/ffariasdev/angularjs-compare-to-directive",
   "authors": [
@@ -18,6 +18,7 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "test"
+    "test",
+    "tests"
   ]
 }

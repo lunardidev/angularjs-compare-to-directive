@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc       directive
- * @name        ffariasdev.directive:compareto
+ * @name        compare.directive:compareto
  * @description This is a directive to validate whether two fields are equal. 
  */
-angular.module('ffariasdev')
+angular.module('compare')
     .directive('compareTo', function() {
         return {
             scope: {
