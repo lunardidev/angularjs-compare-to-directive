@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-compare-to-directive",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ffariasdev/angularjs-compare-to-directive",
+  "authors": [
+    "Anthony <ffarias.dev@gmail.com>"
+  ],
+  "description": "Simple directive to validate whether two fields are equal.",
+  "main": "./compareto.js",
+  "keywords": [
+    "compareto",
+    "angularjs",
+    "match",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
