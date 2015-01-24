@@ -5,7 +5,7 @@
  * @name        compareField.directive:compareto
  * @description This is a directive to validate whether two fields are equal. 
  */
-angular.module('compareField')
+angular.module('compareField', [])
     .directive('compareTo', function() {
         return {
             scope: {
