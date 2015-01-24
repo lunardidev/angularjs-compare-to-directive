@@ -2,6 +2,9 @@
 
 Simple directive to validate whether two fields are equal. 
 
+## Example
+## [Demo Online](http://dev.fetmobile.net/angular-login/#/signUp)
+
 ## Install:
 Run: bower install angularjs-compare-to-directive
 
