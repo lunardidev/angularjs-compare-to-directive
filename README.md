@@ -1,10 +1,7 @@
-# angularjs-compare-to-directive
+# angularjs-compare-to-directive for Angular 1.3
 
 
 Simple directive to validate whether two fields are equal. 
-
-## Example
-### [Demo Online](http://dev.fetmobile.net/angular-login/#/signUp)
 
 
 ## Install:
